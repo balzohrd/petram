@@ -1,4 +1,10 @@
 'use strict';
-module.exports = function (str) {
-  console.log(str || 'Rainbow');
-};
+
+var express=require('express');
+var app=express();
+
+app.get('/', function(req, res){
+  res.send('Coming Soon');
+})
+
+app.listen(process.env.PORT || 3000 )

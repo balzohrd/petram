@@ -11,6 +11,3 @@ $ npm run browser
 ```
 
 
-## License
-
-Private © [DNG](none)
