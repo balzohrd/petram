@@ -1,10 +1,10 @@
 {
-  "name": "sendapetrock",
+  "name": "petram",
   "version": "0.0.0",
   "description": "Sendapetrock.com",
   "homepage": "sendapetrock.com",
-  "repository": "balzohrd/sendapetrock",
-  "license": "Private",
+  "repository": "balzohrd/petram",
+  "license": "Public",
   "files": [
     "index.js"
   ],
